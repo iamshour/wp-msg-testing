@@ -1,0 +1,75 @@
+version: v2beta1
+name: wp-msg-devspace
+vars:
+  DEVSPACE_ENV_FILE: .env
+pipelines:
+  dev:
+    run: 'run_dependencies --all       # 1. Deploy any projects this project needs
+      (see "dependencies")
+
+      create_deployments --all     # 2. Deploy Helm charts and manifests specfied
+      as "deployments"
+
+      start_dev ${APP}              # 3. Start dev mode "app" (see "dev" section)'
+  deploy:
+    run: 'run_dependencies --all                            # 1. Deploy any projects
+      this project needs (see "dependencies")
+
+      build_images --all                                # 2. Build, tag (git commit
+      hash) and push all images (see "images")
+
+      create_deployments --all                          # 3. Deploy Helm charts and
+      manifests specfied as "deployments"'
+images:
+  wp-msg:
+    image: ${IMAGE}
+    tags:
+      - $(echo dev-$USER-$(shuf -er -n4  {A..Z} {a..z} {0..9} | paste -sd ""))
+    kaniko: {}
+deployments:
+  wp-msg:
+    updateImageTags: true
+    helm:
+      chart:
+        name: component-chart
+        repo: https://charts.devspace.sh
+      values:
+        containers:
+          - image: ${IMAGE}
+        service:
+          ports:
+            - port: ${PORT}
+        ingress:
+          ingressClassName: nginx
+          rules:
+            - host: ${EXTERNAL_URL}
+              path: ${EXTERNAL_PATH}
+              pathType: Prefix
+              serviceName: ${APP}
+              servicePort: ${PORT}
+dev:
+  wp-msg:
+    imageSelector: ${IMAGE}
+    devImage: ${DEV_IMAGE}
+    sync:
+      - path: ./
+        disableDownload: true
+        excludePaths:
+          - output
+          - .vscode
+          - node_modules
+    terminal:
+      command: ./devspace_start.sh
+      enabled: true
+      disableScreen: true
+    ssh:
+      enabled: true
+    proxyCommands:
+      - command: devspace
+      - command: kubectl
+      - command: helm
+      - command: git
+    ports:
+      - port: ${LOCAL_PORT}:${PORT}
+    open:
+      - url: http://localhost:${LOCAL_PORT}

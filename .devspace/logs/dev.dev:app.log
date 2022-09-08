@@ -1,0 +1,5 @@
+{"level":"info","msg":"dev:app Pod was already replaced, retrying to update the configuration","time":"2022-09-07T16:16:20+03:00"}
+{"level":"info","msg":"dev:app Waiting for pod to become ready...","time":"2022-09-07T16:16:20+03:00"}
+{"level":"info","msg":"dev:app Selected app-devspace-86979f6fcb-6j2gs:container-0 (pod:container)","time":"2022-09-07T16:16:23+03:00"}
+{"level":"info","msg":"dev:app open  Opening 'http://localhost:8081' as soon as application will be started","time":"2022-09-07T16:16:23+03:00"}
+{"level":"info","msg":"dev:app ports Port forwarding started on: 8080 -\u003e 8081","time":"2022-09-07T16:16:25+03:00"}

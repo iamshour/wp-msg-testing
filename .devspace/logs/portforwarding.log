@@ -1,0 +1,322 @@
+Forwarding from 127.0.0.1:8080 -> 8081
+Forwarding from [::1]:8080 -> 8081
+Forwarding from [::1]:3000 -> 3001
+Forwarding from [::1]:3000 -> 3001
+Forwarding from 127.0.0.1:10839 -> 8022
+Forwarding from [::1]:10839 -> 8022
+Forwarding from [::1]:3000 -> 3001
+Forwarding from [::1]:3000 -> 3001
+Forwarding from 127.0.0.1:10839 -> 8022
+Forwarding from [::1]:10839 -> 8022
+Forwarding from [::1]:3000 -> 3001
+Forwarding from 127.0.0.1:10839 -> 8022
+Forwarding from [::1]:10839 -> 8022
+Handling connection for 3000
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:31:01 socat[517310] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:31:01+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:31:01 socat[517311] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:31:01+03:00"}
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:31:01 socat[517312] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:31:01+03:00"}
+Handling connection for 3000
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:31:03 socat[517366] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:31:02+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:31:03 socat[517365] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:31:02+03:00"}
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:31:03 socat[517367] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:31:02+03:00"}
+Handling connection for 3000
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:01 socat[517957] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:00+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:01 socat[517958] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:00+03:00"}
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:01 socat[517960] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:01+03:00"}
+Handling connection for 3000
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:03 socat[518014] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:02+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:03 socat[518015] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:02+03:00"}
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:03 socat[518017] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:02+03:00"}
+Handling connection for 3000
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:08 socat[518045] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:08+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:08 socat[518046] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:08+03:00"}
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:09 socat[518047] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:08+03:00"}
+Handling connection for 3000
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:37 socat[518395] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:36+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:37 socat[518396] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:36+03:00"}
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:37 socat[518397] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:36+03:00"}
+Handling connection for 3000
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:38 socat[518405] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:37+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:38 socat[518406] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:37+03:00"}
+Handling connection for 3000
+{"level":"error","msg":"an error occurred forwarding 3000 -\u003e 3001: error forwarding port 3001 to pod 219ee7e8b5a0e59526329534a88fcf1c67660a9be54215dd0d40179f9706656c, uid : exit status 1: 2022/09/07 13:32:38 socat[518408] E connect(5, AF=2 127.0.0.1:3001, 16): Connection refused","time":"2022-09-07T16:32:38+03:00"}
+Forwarding from 127.0.0.1:3001 -> 3000
+Forwarding from [::1]:3001 -> 3000
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:08 socat[130428] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:07+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:09 socat[130454] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:08+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:10 socat[130498] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:09+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:11 socat[130547] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:11+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:13 socat[130649] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:12+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:14 socat[130655] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:13+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:15 socat[130658] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:14+03:00"}
+Forwarding from 127.0.0.1:10839 -> 8022
+Forwarding from [::1]:10839 -> 8022
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:16 socat[130741] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:15+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:17 socat[130794] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:16+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:18 socat[130831] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:18+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:20 socat[130859] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:19+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:21 socat[130881] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:20+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:22 socat[130925] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:21+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:23 socat[130929] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:22+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:24 socat[130930] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:23+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:25 socat[130931] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:25+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:26 socat[130990] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:26+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:28 socat[130998] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:27+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:29 socat[131006] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:28+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:30 socat[131027] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:29+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:31 socat[131033] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:30+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:32 socat[131073] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:32+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:34 socat[131076] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:33+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:35 socat[131077] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:34+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:36 socat[131136] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:35+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:37 socat[131159] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:36+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:38 socat[131160] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:38+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:40 socat[131193] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:39+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:41 socat[131194] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:40+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:42 socat[131236] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:42+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:44 socat[131237] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:43+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:45 socat[131238] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:44+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:46 socat[131286] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:45+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:47 socat[131310] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:46+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:48 socat[131311] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:47+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:49 socat[131319] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:49+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:51 socat[131342] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:50+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:52 socat[131366] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:51+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:53 socat[131388] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:52+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:54 socat[131389] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:53+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:55 socat[131400] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:55+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:56 socat[131436] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:56+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:58 socat[131457] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:57+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 13:59:59 socat[131464] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:58+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:00 socat[131486] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T16:59:59+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:01 socat[131504] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:01+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:03 socat[131544] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:02+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:04 socat[131547] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:04+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:06 socat[131607] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:05+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:07 socat[131610] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:06+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:08 socat[131632] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:07+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:09 socat[131646] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:08+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:10 socat[131667] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:09+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:11 socat[131689] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:11+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:13 socat[131713] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:12+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:14 socat[131726] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:13+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:15 socat[131727] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:14+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:16 socat[131737] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:15+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:17 socat[131739] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:17+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:19 socat[131810] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:18+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:20 socat[131838] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:19+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:00:21 socat[131843] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:00:20+03:00"}
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:02:14 socat[133528] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:02:13+03:00"}
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 61b08888812f3d2cd0776287a7469e4e1a8cb3ac27ce2fce1f7b2c9243efaab6, uid : exit status 1: 2022/09/07 14:02:14 socat[133529] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:02:13+03:00"}
+Forwarding from 127.0.0.1:3001 -> 3000
+Forwarding from [::1]:3001 -> 3000
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:02:58 socat[543720] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:02:57+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:02:59 socat[543722] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:02:58+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:00 socat[543761] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:02:59+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:01 socat[543781] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:01+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:02 socat[543879] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:02+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:04 socat[543885] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:03+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:05 socat[543901] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:04+03:00"}
+Forwarding from 127.0.0.1:10839 -> 8022
+Forwarding from [::1]:10839 -> 8022
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:06 socat[543903] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:05+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:07 socat[543966] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:06+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:08 socat[544011] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:08+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:10 socat[544051] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:09+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:11 socat[544057] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:10+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:12 socat[544108] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:11+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:13 socat[544117] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:12+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:14 socat[544121] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:14+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:15 socat[544145] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:15+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:17 socat[544154] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:16+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:18 socat[544159] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:17+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:19 socat[544161] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:18+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:20 socat[544179] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:20+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:21 socat[544181] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:21+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:23 socat[544234] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:22+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:24 socat[544238] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:23+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:25 socat[544256] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:24+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:26 socat[544264] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:25+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:27 socat[544274] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:27+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:29 socat[544280] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:28+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:30 socat[544282] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:29+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:31 socat[544299] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:30+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:32 socat[544353] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:31+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:33 socat[544355] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:32+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:34 socat[544357] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:34+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:36 socat[544373] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:35+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:37 socat[544388] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:36+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:38 socat[544392] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:37+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:39 socat[544394] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:38+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:40 socat[544403] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:39+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:41 socat[544414] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:41+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:42 socat[544470] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:42+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:44 socat[544474] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:43+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:45 socat[544477] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:44+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:46 socat[544503] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:45+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:47 socat[544531] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:47+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:48 socat[544535] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:48+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:50 socat[544537] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:49+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:51 socat[544555] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:50+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:52 socat[544611] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:51+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:53 socat[544615] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:53+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:54 socat[544632] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:54+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:56 socat[544635] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:55+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:57 socat[544662] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:56+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:58 socat[544671] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:57+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:03:59 socat[544680] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:58+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:04:00 socat[544702] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:03:59+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:04:01 socat[544720] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:04:01+03:00"}
+Handling connection for 3001
+{"level":"error","msg":"an error occurred forwarding 3001 -\u003e 3000: error forwarding port 3000 to pod 9b53ec738a5465d5b564e8a6bce4b09b2e9b0ebf70a692eebfd0cfd862f8bce0, uid : exit status 1: 2022/09/07 14:04:03 socat[544778] E connect(5, AF=2 127.0.0.1:3000, 16): Connection refused","time":"2022-09-07T17:04:02+03:00"}
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001
+Handling connection for 3001

@@ -1,0 +1,54 @@
+@mixin centering {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.editor--wrapper {
+	width: 400px;
+	border: 2px dashed grey;
+	border-radius: 8px;
+
+	.DraftEditor-root {
+		width: 400px;
+		min-height: 200px;
+
+		.DraftEditor-editorContainer,
+		.public-DraftStyleDefault-block.public-DraftStyleDefault-ltr {
+			width: 100%;
+			min-height: 60px;
+			font-size: 1.7rem;
+			padding: 0.3rem;
+			line-height: 2rem;
+		}
+	}
+	.e183m4hm {
+		float: right;
+		width: 50px;
+		height: 50px;
+
+		.e8k2yoa {
+			width: 100% !important;
+			height: 100% !important;
+			font-size: 3rem !important;
+			@include centering;
+		}
+	}
+	.preview {
+		padding: 1.4rem;
+		font-size: 1.5rem;
+		background: rgb(233, 249, 255);
+	}
+	.btn-section {
+		width: 100%;
+		padding: 0.8rem 0;
+		@include centering;
+
+		.send-btn {
+			background-color: red;
+			color: white;
+			padding: 10px;
+			font-size: 15px;
+		}
+	}
+}

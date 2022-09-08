@@ -1,0 +1,4 @@
+varsEncrypted: true
+lastContext:
+    namespace: email-signature-ns
+    context: shour-vcluster

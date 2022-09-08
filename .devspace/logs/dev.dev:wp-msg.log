@@ -1,0 +1,66 @@
+{"level":"info","msg":"dev:wp-msg Waiting for pod to become ready...","time":"2022-09-07T16:22:51+03:00"}
+{"level":"info","msg":"dev:wp-msg Selected wp-msg-devspace-fc96cc84d-h2f7q:container-0 (pod:container)","time":"2022-09-07T16:22:53+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Opening 'http://localhost:3001' as soon as application will be started","time":"2022-09-07T16:22:53+03:00"}
+{"level":"info","msg":"dev:wp-msg ports Port forwarding started on: 3000 -\u003e 3001","time":"2022-09-07T16:22:54+03:00"}
+{"level":"info","msg":"dev:wp-msg Waiting for pod to become ready...","time":"2022-09-07T16:23:52+03:00"}
+{"level":"warning","msg":"dev:wp-msg DevSpace is waiting, because Pod wp-msg-devspace-775df6ffb7-stpw2 has status: ContainerCreating","time":"2022-09-07T16:24:04+03:00"}
+{"level":"info","msg":"dev:wp-msg Selected wp-msg-devspace-775df6ffb7-stpw2:container-0 (pod:container)","time":"2022-09-07T16:24:09+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Opening 'http://localhost:3001' as soon as application will be started","time":"2022-09-07T16:24:09+03:00"}
+{"level":"info","msg":"dev:wp-msg ports Port forwarding started on: 3000 -\u003e 3001","time":"2022-09-07T16:24:10+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Sync started on: ./ \u003c-\u003e ./","time":"2022-09-07T16:24:14+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Waiting for initial sync to complete","time":"2022-09-07T16:24:14+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Initial sync completed","time":"2022-09-07T16:24:18+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Port forwarding started on: 10839 -\u003e 8022","time":"2022-09-07T16:24:19+03:00"}
+{"level":"info","msg":"dev:wp-msg proxy Port forwarding started on: 10006 \u003c- 10567","time":"2022-09-07T16:24:20+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Use 'ssh wp-msg.wp-msg-devspace.devspace' to connect via SSH","time":"2022-09-07T16:24:20+03:00"}
+{"level":"info","msg":"dev:wp-msg term  Opening shell to container-0:wp-msg-devspace-775df6ffb7-stpw2 (pod:container)","time":"2022-09-07T16:24:21+03:00"}
+{"level":"info","msg":"dev:wp-msg Waiting for pod to become ready...","time":"2022-09-07T16:26:35+03:00"}
+{"level":"info","msg":"dev:wp-msg Selected wp-msg-devspace-6754585ffd-6r7sd:container-0 (pod:container)","time":"2022-09-07T16:26:37+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Opening 'http://localhost:3001' as soon as application will be started","time":"2022-09-07T16:26:37+03:00"}
+{"level":"info","msg":"dev:wp-msg ports Port forwarding started on: 3000 -\u003e 3001","time":"2022-09-07T16:26:38+03:00"}
+{"level":"info","msg":"dev:wp-msg Waiting for pod to become ready...","time":"2022-09-07T16:27:55+03:00"}
+{"level":"info","msg":"dev:wp-msg Selected wp-msg-devspace-56bdf9f89d-w5flk:container-0 (pod:container)","time":"2022-09-07T16:27:57+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Opening 'http://localhost:3001' as soon as application will be started","time":"2022-09-07T16:27:57+03:00"}
+{"level":"info","msg":"dev:wp-msg ports Port forwarding started on: 3000 -\u003e 3001","time":"2022-09-07T16:27:59+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Sync started on: ./ \u003c-\u003e ./","time":"2022-09-07T16:28:02+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Waiting for initial sync to complete","time":"2022-09-07T16:28:02+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Initial sync completed","time":"2022-09-07T16:28:06+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Port forwarding started on: 10839 -\u003e 8022","time":"2022-09-07T16:28:07+03:00"}
+{"level":"info","msg":"dev:wp-msg proxy Port forwarding started on: 10852 \u003c- 10567","time":"2022-09-07T16:28:08+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Use 'ssh wp-msg.wp-msg-devspace.devspace' to connect via SSH","time":"2022-09-07T16:28:09+03:00"}
+{"level":"info","msg":"dev:wp-msg term  Opening shell to container-0:wp-msg-devspace-56bdf9f89d-w5flk (pod:container)","time":"2022-09-07T16:28:11+03:00"}
+{"level":"info","msg":"dev:wp-msg Waiting for pod to become ready...","time":"2022-09-07T16:28:42+03:00"}
+{"level":"info","msg":"dev:wp-msg Selected wp-msg-devspace-f7d7bf8b5-ckvcf:container-0 (pod:container)","time":"2022-09-07T16:28:46+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Opening 'http://localhost:3001' as soon as application will be started","time":"2022-09-07T16:28:46+03:00"}
+{"level":"info","msg":"dev:wp-msg ports Port forwarding started on: 3000 -\u003e 3001","time":"2022-09-07T16:28:48+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Sync started on: ./ \u003c-\u003e ./","time":"2022-09-07T16:28:54+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Waiting for initial sync to complete","time":"2022-09-07T16:28:54+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Initial sync completed","time":"2022-09-07T16:28:58+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Port forwarding started on: 10839 -\u003e 8022","time":"2022-09-07T16:28:59+03:00"}
+{"level":"info","msg":"dev:wp-msg proxy Port forwarding started on: 10016 \u003c- 10567","time":"2022-09-07T16:29:00+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Use 'ssh wp-msg.wp-msg-devspace.devspace' to connect via SSH","time":"2022-09-07T16:29:00+03:00"}
+{"level":"info","msg":"dev:wp-msg term  Opening shell to container-0:wp-msg-devspace-f7d7bf8b5-ckvcf (pod:container)","time":"2022-09-07T16:29:02+03:00"}
+{"level":"info","msg":"dev:wp-msg Waiting for pod to become ready...","time":"2022-09-07T16:59:04+03:00"}
+{"level":"info","msg":"dev:wp-msg Selected wp-msg-devspace-5d798d95f9-fnjfc:container-0 (pod:container)","time":"2022-09-07T16:59:06+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Opening 'http://localhost:3001' as soon as application will be started","time":"2022-09-07T16:59:06+03:00"}
+{"level":"info","msg":"dev:wp-msg ports Port forwarding started on: 3001 -\u003e 3000","time":"2022-09-07T16:59:07+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Sync started on: ./ \u003c-\u003e ./","time":"2022-09-07T16:59:10+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Waiting for initial sync to complete","time":"2022-09-07T16:59:10+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Initial sync completed","time":"2022-09-07T16:59:14+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Port forwarding started on: 10839 -\u003e 8022","time":"2022-09-07T16:59:15+03:00"}
+{"level":"info","msg":"dev:wp-msg proxy Port forwarding started on: 10407 \u003c- 10567","time":"2022-09-07T16:59:16+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Use 'ssh wp-msg.wp-msg-devspace.devspace' to connect via SSH","time":"2022-09-07T16:59:16+03:00"}
+{"level":"info","msg":"dev:wp-msg term  Opening shell to container-0:wp-msg-devspace-5d798d95f9-fnjfc (pod:container)","time":"2022-09-07T16:59:17+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Successfully opened http://localhost:3001","time":"2022-09-07T17:00:34+03:00"}
+{"level":"info","msg":"dev:wp-msg Waiting for pod to become ready...","time":"2022-09-07T17:02:52+03:00"}
+{"level":"info","msg":"dev:wp-msg Selected wp-msg-devspace-5bb4f66564-4v252:container-0 (pod:container)","time":"2022-09-07T17:02:55+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Opening 'http://localhost:3001' as soon as application will be started","time":"2022-09-07T17:02:55+03:00"}
+{"level":"info","msg":"dev:wp-msg ports Port forwarding started on: 3001 -\u003e 3000","time":"2022-09-07T17:02:56+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Sync started on: ./ \u003c-\u003e ./","time":"2022-09-07T17:03:00+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Waiting for initial sync to complete","time":"2022-09-07T17:03:00+03:00"}
+{"level":"info","msg":"dev:wp-msg sync  Initial sync completed","time":"2022-09-07T17:03:04+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Port forwarding started on: 10839 -\u003e 8022","time":"2022-09-07T17:03:05+03:00"}
+{"level":"info","msg":"dev:wp-msg proxy Port forwarding started on: 10470 \u003c- 10567","time":"2022-09-07T17:03:06+03:00"}
+{"level":"info","msg":"dev:wp-msg ssh   Use 'ssh wp-msg.wp-msg-devspace.devspace' to connect via SSH","time":"2022-09-07T17:03:07+03:00"}
+{"level":"info","msg":"dev:wp-msg term  Opening shell to container-0:wp-msg-devspace-5bb4f66564-4v252 (pod:container)","time":"2022-09-07T17:03:08+03:00"}
+{"level":"info","msg":"dev:wp-msg open  Successfully opened http://localhost:3001","time":"2022-09-07T17:04:18+03:00"}

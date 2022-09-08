@@ -1,0 +1,39 @@
+{"level":"info","msg":"Inject devspacehelper...","time":"2022-09-07T16:22:54+03:00"}
+{"level":"info","msg":"Successfully injected devspacehelper into pod email-signature-ns/wp-msg-devspace-fc96cc84d-h2f7q","time":"2022-09-07T16:22:57+03:00"}
+{"level":"info","msg":"Inject devspacehelper...","time":"2022-09-07T16:24:11+03:00"}
+{"level":"info","msg":"Successfully injected devspacehelper into pod email-signature-ns/wp-msg-devspace-775df6ffb7-stpw2","time":"2022-09-07T16:24:14+03:00"}
+{"level":"info","msg":"Start syncing","time":"2022-09-07T16:24:14+03:00"}
+{"level":"info","msg":"Downstream - Initial sync completed","time":"2022-09-07T16:24:15+03:00"}
+{"level":"info","msg":"Upstream - Upload 65 create change(s) (Uncompressed ~1462.28 KB)","time":"2022-09-07T16:24:16+03:00"}
+{"level":"info","msg":"Upstream - Successfully processed 65 change(s)","time":"2022-09-07T16:24:16+03:00"}
+{"level":"info","msg":"Upstream - Initial sync completed","time":"2022-09-07T16:24:18+03:00"}
+{"level":"info","msg":"Inject devspacehelper...","time":"2022-09-07T16:26:39+03:00"}
+{"level":"info","msg":"Successfully injected devspacehelper into pod email-signature-ns/wp-msg-devspace-6754585ffd-6r7sd","time":"2022-09-07T16:26:42+03:00"}
+{"level":"info","msg":"Inject devspacehelper...","time":"2022-09-07T16:27:59+03:00"}
+{"level":"info","msg":"Successfully injected devspacehelper into pod email-signature-ns/wp-msg-devspace-56bdf9f89d-w5flk","time":"2022-09-07T16:28:02+03:00"}
+{"level":"info","msg":"Start syncing","time":"2022-09-07T16:28:02+03:00"}
+{"level":"info","msg":"Downstream - Initial sync completed","time":"2022-09-07T16:28:03+03:00"}
+{"level":"info","msg":"Upstream - Upload 65 create change(s) (Uncompressed ~1462.48 KB)","time":"2022-09-07T16:28:04+03:00"}
+{"level":"info","msg":"Upstream - Successfully processed 65 change(s)","time":"2022-09-07T16:28:05+03:00"}
+{"level":"info","msg":"Upstream - Initial sync completed","time":"2022-09-07T16:28:06+03:00"}
+{"level":"info","msg":"Inject devspacehelper...","time":"2022-09-07T16:28:48+03:00"}
+{"level":"info","msg":"Successfully injected devspacehelper into pod email-signature-ns/wp-msg-devspace-f7d7bf8b5-ckvcf","time":"2022-09-07T16:28:54+03:00"}
+{"level":"info","msg":"Start syncing","time":"2022-09-07T16:28:54+03:00"}
+{"level":"info","msg":"Downstream - Initial sync completed","time":"2022-09-07T16:28:55+03:00"}
+{"level":"info","msg":"Upstream - Upload 65 create change(s) (Uncompressed ~1462.48 KB)","time":"2022-09-07T16:28:56+03:00"}
+{"level":"info","msg":"Upstream - Successfully processed 65 change(s)","time":"2022-09-07T16:28:57+03:00"}
+{"level":"info","msg":"Upstream - Initial sync completed","time":"2022-09-07T16:28:58+03:00"}
+{"level":"info","msg":"Inject devspacehelper...","time":"2022-09-07T16:59:07+03:00"}
+{"level":"info","msg":"Successfully injected devspacehelper into pod email-signature-ns/wp-msg-devspace-5d798d95f9-fnjfc","time":"2022-09-07T16:59:10+03:00"}
+{"level":"info","msg":"Start syncing","time":"2022-09-07T16:59:10+03:00"}
+{"level":"info","msg":"Downstream - Initial sync completed","time":"2022-09-07T16:59:11+03:00"}
+{"level":"info","msg":"Upstream - Upload 65 create change(s) (Uncompressed ~1462.48 KB)","time":"2022-09-07T16:59:12+03:00"}
+{"level":"info","msg":"Upstream - Successfully processed 65 change(s)","time":"2022-09-07T16:59:12+03:00"}
+{"level":"info","msg":"Upstream - Initial sync completed","time":"2022-09-07T16:59:14+03:00"}
+{"level":"info","msg":"Inject devspacehelper...","time":"2022-09-07T17:02:57+03:00"}
+{"level":"info","msg":"Successfully injected devspacehelper into pod email-signature-ns/wp-msg-devspace-5bb4f66564-4v252","time":"2022-09-07T17:03:00+03:00"}
+{"level":"info","msg":"Start syncing","time":"2022-09-07T17:03:00+03:00"}
+{"level":"info","msg":"Downstream - Initial sync completed","time":"2022-09-07T17:03:01+03:00"}
+{"level":"info","msg":"Upstream - Upload 65 create change(s) (Uncompressed ~1462.48 KB)","time":"2022-09-07T17:03:02+03:00"}
+{"level":"info","msg":"Upstream - Successfully processed 65 change(s)","time":"2022-09-07T17:03:03+03:00"}
+{"level":"info","msg":"Upstream - Initial sync completed","time":"2022-09-07T17:03:04+03:00"}
